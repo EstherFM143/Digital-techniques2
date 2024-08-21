@@ -18,7 +18,7 @@ performed using a module that contains SystemVerilog concurrent assertions.
 
 The project utilized several methods and tools. The language used was SystemVerilog (a
 hardware description language), which was employed for implementing the RTL architecture
-and for debugging. All design tasks are executed on the university's (Univeristy of Oulu) Linux computing servers,
+and for debugging. All design tasks are executed on the university's (University of Oulu) Linux computing servers,
 (Linux remote desktop program, particularly Lehmus VDI desktop/ server).
 The RTL code was executed using a simulator, which is a crucial tool for an RTL logic designer.
 The synthesizability of the code was checked using Mentor Graphics Questa Autocheck, which
