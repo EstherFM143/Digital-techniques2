@@ -1,5 +1,5 @@
 # Digital-techniques2
-The objective of this project is to architect and design a simple microprocessor CPU core, which
+Projectwork for the course at the University of Oulu. The objective of this project is to architect and design a simple microprocessor CPU core, which
 draws significant parallels with the MyCPU. The MyCPU is a processor core that operates on a
 16-bit instruction set and is deeply rooted in the principles of processor architecture. The core
 architecture of the processor is realized through a synthesized register-level model using SystemVerilog. 
