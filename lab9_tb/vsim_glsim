@@ -1,0 +1,11 @@
+#!/bin/csh
+
+source run/setup_env.csh
+
+cd $WORKDIR
+
+rm -rf glib modelsim.ini transcript vsim.dbg vsim.wlf work
+
+vsim -do input/vsim_glsim.tcl
+
+
