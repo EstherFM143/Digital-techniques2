@@ -40,3 +40,5 @@ digit D of the student number. For this project, D is 4, which corresponds to th
 by 2 is equivalent to a right shift operation in binary arithmetic.
 These requirements were integral to the design and functionality of the microprocessor CPU
 core.
+
+Report files will be displayed upon request. Lab and project input files are available.
