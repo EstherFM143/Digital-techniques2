@@ -32,7 +32,7 @@ The personal design requirements for this project were centered around two key p
 the clock frequency and the XXL command.
 Clock Frequency: The clock frequency, denoted as CLK_PERIOD, was determined using a
 specific formula: 10 + N ns, where N represents the last digit of the student number. In this
-particular case, N is 5 (from the student number 2309645), resulting in a clock frequency of 15
+particular case, N is 5 (from the student number xxxxx45), resulting in a clock frequency of 15
 ns.
 XXL Command: The functionality of the XXL instruction was chosen based on the second to last
 digit D of the student number. For this project, D is 4, which corresponds to the instruction R0 =
